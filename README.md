@@ -1,12 +1,12 @@
  <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/151.gif" height="75" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/48.gif" height="75" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif" height="75" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/132.gif" height="75" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/63.gif" height="75" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" height="75" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" height="75" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/144.gif" height="75" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/145.gif" height="75" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/146.gif" height="75" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" height="75" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/249.gif" height="75" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/250.gif" height="75" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/377.gif" height="75" />
 
 # AXEL JOHN NUQUI
 
@@ -24,7 +24,7 @@ Building applications, exploring AI, and turning ideas into working software.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/196.gif" height="90" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/378.gif" height="90" />
 
 ## 01 / ABOUT ME
 
@@ -36,9 +36,9 @@ I'm particularly interested in application architecture, backend engineering, re
 
 <br>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" height="45" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif" height="45" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/63.gif" height="45" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" height="45" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/658.gif" height="45" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/379.gif" height="45" />
 
 `WEB DEVELOPMENT` · `MOBILE DEVELOPMENT` · `AI INTEGRATION`
 
@@ -52,7 +52,7 @@ I'm particularly interested in application architecture, backend engineering, re
 
 *Tools I use to bring ideas to life.*
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/132.gif" height="55" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/380.gif" height="55" />
 
 ### Programming Languages
 
@@ -69,8 +69,6 @@ I'm particularly interested in application architecture, backend engineering, re
 <img src="https://img.shields.io/badge/Socket.IO-181818?style=flat-square&logo=socketdotio&logoColor=white" />
 <img src="https://img.shields.io/badge/Ratatui-181818?style=flat-square&logo=rust&logoColor=white" />
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/233.gif" height="55" />
-
 ### Databases & Backend
 
 <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite&theme=dark" />
@@ -80,8 +78,6 @@ I'm particularly interested in application architecture, backend engineering, re
 <img src="https://img.shields.io/badge/Convex-181818?style=flat-square" />
 <img src="https://img.shields.io/badge/Firestore-181818?style=flat-square&logo=firebase&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_APIs-181818?style=flat-square" />
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/151.gif" height="55" />
 
 ### AI & Machine Learning
 
@@ -97,8 +93,6 @@ I'm particularly interested in application architecture, backend engineering, re
 <img src="https://img.shields.io/badge/MobileNetV3-181818?style=flat-square" />
 <img src="https://img.shields.io/badge/DistilBERT-181818?style=flat-square" />
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" height="55" />
-
 ### Developer Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,docker&theme=dark" />
@@ -110,9 +104,6 @@ I'm particularly interested in application architecture, backend engineering, re
 <img src="https://img.shields.io/badge/Google_Colab-181818?style=flat-square&logo=googlecolab&logoColor=white" />
 
 <br>
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/470.gif" height="55" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/196.gif" height="55" />
 
 </div>
 
@@ -130,7 +121,7 @@ I'm particularly interested in application architecture, backend engineering, re
 <tr>
 <td align="center" width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/48.gif" height="100" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/481.gif" height="100" />
 
 ### VEC-PRO
 
@@ -147,7 +138,7 @@ A multi-staged AI system for reporting, classifying, and monitoring mosquito bre
 </td>
 <td align="center" width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/43.gif" height="100" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/482.gif" height="100" />
 
 ### VISAIA
 
@@ -164,7 +155,7 @@ A mobile application that helps farmers manage crop activities, perform field sc
 <tr>
 <td align="center" width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif" height="100" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/483.gif" height="100" />
 
 ### VISAIA DASHBOARD
 
@@ -179,7 +170,7 @@ A web dashboard for agricultural personnel to manage farm records, validate pest
 </td>
 <td align="center" width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/132.gif" height="100" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/484.gif" height="100" />
 
 ### SYNT-ASK
 
@@ -196,7 +187,7 @@ A real-time multiplayer game that integrates DistilBERT and semantic similarity 
 <tr>
 <td align="center" width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/63.gif" height="100" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/485.gif" height="100" />
 
 ### REVIA
 
@@ -211,7 +202,7 @@ A platform that allows students to discover, book, and review study spaces with 
 </td>
 <td align="center" width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/98.gif" height="100" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/486.gif" height="100" />
 
 ### SHIFT
 
@@ -229,9 +220,9 @@ A terminal-based file manager built with Rust, featuring recursive directory sca
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/470.gif" height="65" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" height="65" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/196.gif" height="65" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/487.gif" height="65" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/488.gif" height="65" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/638.gif" height="65" />
 
 </div>
 
@@ -241,10 +232,7 @@ A terminal-based file manager built with Rust, featuring recursive directory sca
 
 ## 04 / GITHUB ACTIVITY
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/233.gif" height="65" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=xelpaxu&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xelpaxu&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=999999" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/639.gif" height="65" />
 
 <br>
 
@@ -252,9 +240,9 @@ A terminal-based file manager built with Rust, featuring recursive directory sca
 
 <br>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" height="65" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/135.gif" height="65" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/136.gif" height="65" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/640.gif" height="65" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/641.gif" height="65" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/642.gif" height="65" />
 
 </div>
 
@@ -264,9 +252,9 @@ A terminal-based file manager built with Rust, featuring recursive directory sca
 
 ## 05 / CURRENTLY EXPLORING
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" height="75" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/196.gif" height="75" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/470.gif" height="75" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/643.gif" height="75" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/644.gif" height="75" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/645.gif" height="75" />
 
 `RUST` · `SYSTEM DESIGN` · `BACKEND ARCHITECTURE` · `AI PRODUCTS`
 
@@ -282,7 +270,7 @@ Building better software, one project at a time.
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" height="80" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/646.gif" height="80" />
 
 **Thanks for visiting my corner of GitHub.**
 
