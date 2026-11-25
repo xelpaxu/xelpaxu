@@ -4,43 +4,43 @@
   <a href="https://xlpxu.vercel.app/"><img src="assets/dark/link-portfolio.svg?v=989c4a394e21" alt="Portfolio"></a>
 </p>
 
-![GitHub contributions, streaks, public repositories, stars, and followers](assets/dark/github.svg?v=e53bc27a01a7)
+![GitHub contributions, streaks, public repositories, stars, and followers](assets/dark/github.svg?v=c97b7198c35b)
 
-![Daily contributions over the last six months](assets/dark/activity-6mo.svg?v=262bcc2b9325)
+![Daily contributions over the last six months](assets/dark/activity-6mo.svg?v=091af0e3d47a)
 
 <!-- activity:start -->
 
 <details>
 <summary>Last 12 months · 454 contributions</summary>
 
-![Last 12 months of contributions](assets/dark/activity-12mo.svg?v=f94b3107c7f5)
+![Last 12 months of contributions](assets/dark/activity-12mo.svg?v=fced0aa88471)
 
 </details>
 
 <details>
 <summary>2026 · 448 contributions</summary>
 
-![Contributions in 2026](assets/activity-2026.svg)
+![Contributions in 2026](assets/dark/activity-2026.svg?v=c8a3ee426ab4)
 
 </details>
 
 <details>
 <summary>2025 · 127 contributions</summary>
 
-![Contributions in 2025](assets/activity-2025.svg)
+![Contributions in 2025](assets/dark/activity-2025.svg?v=e517316a48e2)
 
 </details>
 
 <details>
 <summary>2024 · 1 contributions</summary>
 
-![Contributions in 2024](assets/activity-2024.svg)
+![Contributions in 2024](assets/dark/activity-2024.svg?v=ea22e768424e)
 
 </details>
 
 <!-- activity:end -->
 
-![Daily contributions over the last 30 days](assets/dark/activity-30d.svg?v=ad2fb882f4a0)
+![Daily contributions over the last 30 days](assets/dark/activity-30d.svg?v=298d8e94a9b6)
 
 ![Whoami — Axel John Nuqui, full-stack developer and Computer Science student majoring in AI at WVSU in Iloilo City](assets/dark/whoami.svg?v=70a11d49410a)
 
