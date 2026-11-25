@@ -11,9 +11,30 @@
 <!-- activity:start -->
 
 <details>
-<summary>Last 12 months</summary>
+<summary>Last 12 months · 454 contributions</summary>
 
 ![Last 12 months of contributions](assets/dark/activity-12mo.svg?v=f94b3107c7f5)
+
+</details>
+
+<details>
+<summary>2026 · 448 contributions</summary>
+
+![Contributions in 2026](assets/activity-2026.svg)
+
+</details>
+
+<details>
+<summary>2025 · 127 contributions</summary>
+
+![Contributions in 2025](assets/activity-2025.svg)
+
+</details>
+
+<details>
+<summary>2024 · 1 contributions</summary>
+
+![Contributions in 2024](assets/activity-2024.svg)
 
 </details>
 
